@@ -1,0 +1,8 @@
+{
+  "name": "lambda-event-handler",
+  "version": "1.0.0",
+  "description": "Lambda function to handle S3 events",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {}
+}
